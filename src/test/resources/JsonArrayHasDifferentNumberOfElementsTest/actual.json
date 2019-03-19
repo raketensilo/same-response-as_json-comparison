@@ -1,0 +1,18 @@
+[
+    {
+        "id": "c8018f10-2d03-4324-a30d-2ce0b8b96f02",
+        "name": "uma_authorization",
+        "description": "${role_uma_authorization}",
+        "composite": false,
+        "clientRole": false,
+        "containerId": "master"
+    },
+    {
+        "id": "270ac178-bc36-41df-ab07-3c46e6a073ef",
+        "name": "admin",
+        "description": "${role_admin}",
+        "composite": true,
+        "clientRole": false,
+        "containerId": "master"
+    }
+]

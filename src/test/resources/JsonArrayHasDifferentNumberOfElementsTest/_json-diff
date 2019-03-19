@@ -1,0 +1,16 @@
+ [
+   ...
+   ...
+-  {
+-    id: "710c7613-571a-4056-91f8-2d7d6edca52e"
+-    name: "offline_access"
+-    description: "${role_offline-access}"
+-    containerId: "master"
+-  }
+-  {
+-    id: "e09836cf-9497-42c7-b03f-433b07b9fd24"
+-    name: "create-realm"
+-    description: "${role_create-realm}"
+-    containerId: "master"
+-  }
+ ]

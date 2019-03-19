@@ -1,0 +1,8 @@
+ {
+-  clientAuthenticationFlow: "clients"
++  clientAuthenticationFlo: "client"
+   browserSecurityHeaders: {
+-    contentSecurityPolicy: "frame-src 'self'; frame-ancestors 'self'; object-src 'none';"
++    contenSecurityPolicy: "frame-src 'self'; frame-ancestors 'self'; object-src 'none'"
+   }
+ }

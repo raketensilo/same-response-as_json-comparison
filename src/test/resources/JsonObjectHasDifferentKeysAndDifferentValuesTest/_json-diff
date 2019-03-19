@@ -1,0 +1,17 @@
+ {
+   defaultRoles: [
+     "offline_access"
+-    "uma_authorization"
++    "uma_authorizatio"
+   ]
+   eventsListeners: [
+-    "jboss-logging"
++    "jboss-loggin"
+   ]
+   attributes: {
+-    _browser_header.xXSSProtection: "1; mode=block"
+-    _browser_header.xContentTypeOptions: "nosniff"
++    _browser_header.xXSSProtectio: "1; mode=block"
++    _browserheader.xContentTypeOptions: "nosniff"
+   }
+ }

@@ -1,0 +1,7 @@
+ {
++  internationalizationEnabled: true
+   attributes: {
+-    _browser_header.contentSecurityPolicy: "frame-src 'self'; frame-ancestors 'self'; object-src 'none';"
++    _browser_header.contentSecurityPolicy: "frame-src 'self'; frame-ancestors 'self'; object-src 'non';"
+   }
+ }

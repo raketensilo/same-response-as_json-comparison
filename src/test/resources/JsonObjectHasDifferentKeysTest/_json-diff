@@ -1,0 +1,6 @@
+ {
+-  minimumQuickLoginWaitSeconds: 60
+-  registrationFlow: "registration"
++  minimumQuickLoginWaitSecond: 60
++  registrationFlo: "registration"
+ }
