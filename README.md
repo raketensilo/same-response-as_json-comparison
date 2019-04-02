@@ -19,10 +19,11 @@ The following 3 libraries are worthwhile comparing when it comes to Json compari
 * JSONAssert 1.5.0 :: [official repository](https://github.com/skyscreamer/JSONassert) ::  [Maven dependency](https://search.maven.org/artifact/org.skyscreamer/jsonassert/1.5.0/jar)
 * Hamcrest-Json 0.2 :: [official repository](https://github.com/hertzsprung/hamcrest-json) ::  [Maven dependency](https://search.maven.org/artifact/uk.co.datumedge/hamcrest-json/0.2/jar)
 
-
 ### (III) How to get started
 1. Download this repository
 2. Open the Java project with IntelliJ IDEA and try to run all tests
 3. You will find the test results under `/src/test/resources` in the respective `.txt` files
 
-**... TO BE CONTINUED ...**
+### (IV) Usage instructions
+
+Run all tests inside `IntelliJ Idea` or your favorite Java IDE.
